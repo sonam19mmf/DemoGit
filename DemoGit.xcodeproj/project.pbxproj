@@ -14,6 +14,8 @@
 		04C28F0D2000EE1500530D9A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04C28F0B2000EE1500530D9A /* LaunchScreen.storyboard */; };
 		04C28F182000EE1500530D9A /* DemoGitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C28F172000EE1500530D9A /* DemoGitTests.swift */; };
 		04C28F232000EE1500530D9A /* DemoGitUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C28F222000EE1500530D9A /* DemoGitUITests.swift */; };
+		04C28F312000F62D00530D9A /* abclass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C28F302000F62D00530D9A /* abclass.swift */; };
+		04C28F332000F88A00530D9A /* Hey.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04C28F322000F88A00530D9A /* Hey.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		04C28F1E2000EE1500530D9A /* DemoGitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DemoGitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		04C28F222000EE1500530D9A /* DemoGitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoGitUITests.swift; sourceTree = "<group>"; };
 		04C28F242000EE1500530D9A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04C28F302000F62D00530D9A /* abclass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = abclass.swift; sourceTree = "<group>"; };
+		04C28F322000F88A00530D9A /* Hey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hey.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				04C28F092000EE1500530D9A /* Assets.xcassets */,
 				04C28F0B2000EE1500530D9A /* LaunchScreen.storyboard */,
 				04C28F0E2000EE1500530D9A /* Info.plist */,
+				04C28F302000F62D00530D9A /* abclass.swift */,
+				04C28F322000F88A00530D9A /* Hey.swift */,
 			);
 			path = DemoGit;
 			sourceTree = "<group>";
@@ -261,6 +267,8 @@
 			files = (
 				04C28F052000EE1500530D9A /* ViewController.swift in Sources */,
 				04C28F032000EE1500530D9A /* AppDelegate.swift in Sources */,
+				04C28F332000F88A00530D9A /* Hey.swift in Sources */,
+				04C28F312000F62D00530D9A /* abclass.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
